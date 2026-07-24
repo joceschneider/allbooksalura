@@ -73,3 +73,7 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+
+
+## Nova funcionalidade
+Foi adicionada uma nova funcionalidade ao projeto.
