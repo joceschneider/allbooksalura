@@ -24,4 +24,3 @@ server.listen(8000, () => {
   console.log("API disponível através da url http://localhost:8000")
   
 })
-
